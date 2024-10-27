@@ -1,5 +1,5 @@
 body {
-  background: #ffe6f2;
+  background: #ce31ce;
   font-family: "Roboto", sans-serif;
 }
 
@@ -37,7 +37,7 @@ body {
 
 .current-weather {
   font-size: 20px;
-  color: #ff4081;
+  color: hsl(253, 91%, 17%);
 }
 
 .current-temperature {
@@ -47,14 +47,14 @@ body {
 
 .current-details {
   font-size: 16px;
-  color: #ff4081;
+  color: #260977;
 }
 
 footer {
   border-top: 1px solid #ffd6e9;
   padding-top: 10px;
   font-size: 14px;
-  color: #ff6b9d;
+  color: #f5437e;
 }
 
 .emoji {
